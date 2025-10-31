@@ -27,7 +27,7 @@ class NineBot {
             Origin: "https://h5-bj.ninebot.com",
             from_platform_1: "1",
             language: "zh",
-            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Segway v6 C 609033420",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Segway v6 C 609093589",
             Referer: "https://h5-bj.ninebot.com/",
         };
 
