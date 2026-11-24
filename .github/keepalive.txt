@@ -1,0 +1,5 @@
+Ninebot keepalive
+
+Last keepalive commit: 2026-11-24 18:41 CST
+Purpose: weekly activity commit so GitHub does not disable the scheduled sign-in workflow after 60 days of inactivity.
+Only this file is touched by keepalive commits; nothing else in the repo is changed.
